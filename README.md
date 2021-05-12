@@ -1,5 +1,13 @@
-# Socket Server Basico
+# Basic Socket Server 
 
-Un servidor de Websockets usando Node, Express y Socket.io
+A server of Websockets using Node, Express y Socket.io, for queued applications simulating shifts on hold
 
-Temas cubiertos en mi curso de Node de cero a experto
+```
+npm instal
+```
+```
+nodemon app.js
+```
+
+localhost 8080
+
